@@ -1,175 +1,251 @@
 <div align="center">
 
-PIWF: Personal Information Warfare Framework
+# PIWF: Personal Information Warfare Framework
+### 个人信息战框架 | 개인 정보전 프레임워크 | 個人情報戦フレームワーク
 
-个人信息战框架 | 개인 정보전 프레임워크 | 個人情報戦フレームワーク
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Status](https://img.shields.io/badge/Status-Conceptual_Whitepaper-orange.svg)](#roadmap)
+[![Field](https://img.shields.io/badge/Field-Information_Warfare-red.svg)](#abstract)
 
-<!-- 统一导航锚点 -->
+<br>
 
-English
-
-简体中文
-
-한국어
-
-日本語
+**[English](#piwf-en) | [简体中文](#piwf-cn) | [한국어](#piwf-kr) | [日本語](#piwf-jp)**
 
 </div>
 
-🛠️ Deployment / 部署
+---
 
 <!-- ============================================================
 ENGLISH VERSION (Default Open)
 ============================================================ -->
 
-<div id="-piwf-en"></div>
+<div id="piwf-en"></div>
 <details open>
 <summary><b>🇺🇸 [EN] Personal Information Warfare Framework</b></summary>
 
+## 🌎 Abstract
 
+**Personal Information Warfare Framework (PIWF)** is a comprehensive strategic and technical framework designed to redefine "Individual Self-Defense" in the digital age. In an algorithm-driven social landscape, individual cognitive spaces are facing unprecedented asymmetric threats from collective digital aggression.
 
+PIWF is not just a tool; it fuses **Information Theory, Logic, Psychological Defense, and AI Automation** to provide a full-spectrum defense solution from "Situational Awareness" to "Logical Counter-Strike". It aims to bridge the power gap through tactical neutralization, allowing individuals to reclaim their **Digital Sovereignty**.
 
-🌎 Abstract
+## 🛡️ Core Architecture
 
-Personal Information Warfare Framework (PIWF) is a theoretical and strategic architecture designed to redefine "Individual Self-Defense" in the digital age. In an algorithm-driven social landscape, individual cognitive spaces are facing unprecedented asymmetric threats from collective digital aggression. PIWF aims to bridge this power gap through tactical neutralization, allowing individuals to reclaim their Digital Sovereignty.
+PIWF is built on a 4-layer response matrix designed to achieve "Asymmetric Neutralization":
 
-💡 The Philosophy
+### 1. Semantic Ingestion Layer
+*   **Core Concept**: Cognitive Decoupling.
+*   **Function**: AI real-time interception of raw attack flows, stripping away emotional toxicity, and collapsing "verbal abuse" into cold, structured "logical samples".
 
-In the era of algorithmic siege, the individual's mind is the primary battlefield. PIWF shifts the defensive paradigm from Passive Endurance to Active Deconstruction. It asserts that digital harassment is not a storm to be weathered, but a structured signal to be neutralized.
+### 2. Strategic Clustering Layer
+*   **Core Concept**: Information Collapse.
+*   **Function**: Uses vector algorithms to cluster thousands of comments. It allows the user to realize that a mass siege is essentially just 3-5 logical fallacies repeated infinitely.
 
-🛡️ Strategic Pillars
+### 3. Tactical Response Layer
+*   **Core Concept**: Logos Strike.
+*   **Function**: Leverages **Prompt Engineering** to generate text capable of dimensional counter-strikes, automatically deconstructing the opponent's logical flaws (e.g., Ad Hominem, Straw Man).
 
-Cognitive Decoupling: Severing the emotional feedback loop intended by external aggression. By viewing hostility as objective data rather than personal attack, the individual achieves psychological immunity.
+### 4. Evidence Vault
+*   **Core Concept**: Deterministic Deterrence.
+*   **Function**: Automated OSINT tracking and legal evidence solidification, including timestamps, metadata hashing, and behavioral profiling.
 
-Narrative Collapse: Dismantling the "Human Sea" tactic. PIWF focuses on identifying the singular logical core hidden behind thousands of repetitive voices, effectively dissolving the illusion of mass consensus.
+## 🚀 Tactical Demo
 
-Dimensional Counter-Strike: Applying high-order logic to expose the internal contradictions of the aggressor's narrative. This renders the attack not only invalid but logically absurd in the public sphere.
+> **Scenario**: When facing a massive "False Dilemma" attack or repetitive labeling.
+>
+> **PIWF Operation**:
+> 1.  **Identification**: System identifies 92% of traffic as "False Dilemma" fallacy.
+> 2.  **Counter-Strike**: Auto-generates deconstruction text: *"Your argument forces a binary choice in a complex reality, typical of the False Dilemma fallacy. I suggest refining your foundational logic before engaging further."*
+> 3.  **Effect**: Shifts the conflict axis from "Emotional Outburst" to "Logical Scrutiny," instantly neutralizing the aggressor's momentum.
 
-Sovereignty Solidification: Establishing an immutable record of the information encounter. It transforms a transient digital conflict into a permanent testament to the individual’s defensive resolve.
+## ⚠️ Disclaimer
 
-"Victory is not winning the argument; it is rendering the attack irrelevant."
+This project is for **Academic Research and Logical Defense Demonstration** purposes only. The author does not condone or facilitate any form of proactive cyber harassment. All legal and ethical responsibilities regarding interactions generated by this protocol reside with the user.
 
-⚠️ Disclaimer
+## 📅 Roadmap
 
-This framework is a conceptual architecture for digital self-defense and cognitive security research. The author does not condone or facilitate proactive aggression. All ethical and legal responsibilities reside with the operator.
+- [x] **Phase 1**: Protocol Specification & Strategic Whitepaper (Current)
+- [ ] **Phase 2**: Release of Python-based LLM Logic Engine (Alpha)
+- [ ] **Phase 3**: Development of **Three.js** based "War Room" UI for situational awareness
+- [ ] **Phase 4**: Cross-platform Browser Extension Integration
 
-<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ Back to Console</a></p>
 </details>
+
+---
 
 <!-- ============================================================
 CHINESE VERSION
 ============================================================ -->
 
-<div id="-piwf-cn"></div>
+<div id="piwf-cn"></div>
 <details>
 <summary><b>🇨🇳 [CN] 个人信息战框架</b></summary>
 
+## 🌎 项目摘要 | Abstract
 
+**个人信息战框架 (PIWF)** 是一套旨在重新定义数字时代“个体自卫权”的综合性战略与技术框架。在算法驱动的社交环境中，个体的认知空间正面临前所未有的非对称威胁。
 
+PIWF 并非单一的代码工具，它融合了**信息论、逻辑学、心理防御与 AI 自动化**，为处在数字荒原中的个体提供从“态势感知”到“逻辑反击”的全链路防御方案。它主张通过技术的维度跃迁，抹平群体暴力带来的规模劣势，守护个体的数字主权。
 
-🌎 摘要
+## 🛡️ 核心架构 | Architecture
 
-个人信息战框架 (PIWF) 是一套重新定义数字时代“个体自卫权”的战略性理论架构。在算法驱动的社交环境中，个体的认知空间正面临来自集体性网络攻击的前所未有的非对称威胁。PIWF 旨在通过战术性中和技术抹平这种权力差异，赋予个体夺回其数字主权的能力。
+PIWF 协议由四个关键技术层组成，旨在实现信息的“非对称中和”：
 
-💡 核心哲学
+### 1. 语义洗涤层 (Semantic Ingestion)
+*   **核心概念**：认知脱钩。
+*   **功能**：AI 实时拦截原始攻击流，剔除情绪毒性，将“谩骂”坍缩为冰冷的“逻辑样本”。
 
-在算法围猎的时代，个体的认知空间是信息战的核心战场。PIWF 将防御范式从**“被动忍受”转变为“主动解构”**。它主张：数字霸凌并非一场需要硬扛的暴雨，而是一种可以被中和的、具备结构的信号。
+### 2. 战略聚类层 (Strategic Clustering)
+*   **核心概念**：信息坍缩。
+*   **功能**：利用向量算法将万级评论聚类。让用户意识到，万人的围攻本质上只是 3-5 个逻辑漏洞的无限重复。
 
-🛡️ 战略支柱
+### 3. 战术反击层 (Tactical Response)
+*   **核心概念**：逻辑核武。
+*   **功能**：基于**提示词工程 (Prompt Engineering)** 生成具备降维打击能力的文案，针对敌方逻辑谬误进行精准的自动化解构。
 
-认知脱钩 (Cognitive Decoupling)：切断由外部攻击引发的情绪反馈回路。通过将恶意视为客观数据而非个人攻击，个体得以建立心理层面的绝对免疫。
+### 4. 证据保险库 (Evidence Vault)
+*   **核心概念**：确定性威慑。
+*   **功能**：自动化完成 OSINT 溯源与法律证据固化（时间戳、截图、行为画像）。
 
-叙事坍缩 (Narrative Collapse)：瓦解“人海战术”。PIWF 专注于识别成千上万个重复声音背后隐藏的单一逻辑核心，从而有效消解对方试图制造的“群体共识”假象。
+## 🚀 战术演示 | Tactical Demo
 
-维度打击 (Dimensional Strike)：利用高阶逻辑框架暴露攻击者叙事的内部矛盾。这不仅能使攻击失效，还能使其在公共视阈下呈现出逻辑上的荒谬性。
+> **场景**：当你面对大规模的“复读机式”立场攻击时。
+>
+> **PIWF 操作**：
+> 1.  **识别**：系统识别攻击特征为“虚假二难境地 (False Dilemma)”。
+> 2.  **反击**：自动生成解构文案：“您的论述强行简化了复杂现实，属于典型的二分法逻辑谬误。建议在攻击前先完善底层逻辑。”
+> 3.  **效果**：将冲突从“情绪对线”拉入“逻辑审查”，瞬间消解对方的攻击气焰。
 
-主权固化 (Sovereignty Solidification)：为信息冲突建立不可篡改的记录。它将转瞬即逝的数字冲突转化为个体防御意志的永久证明，形成确定性震慑。
+## ⚠️ 免责声明 | Disclaimer
 
-“胜利不在于辩论的胜负，而在于让攻击本身失去意义。”
+本项目仅供**学术研究与逻辑防御演示**之用。作者不鼓励、不参与任何形式的主动网络霸凌。用户在使用本协议生成的文案进行交互时，需自行承担所有法律及伦理责任。
 
-⚠️ 免责声明
+## 📅 开发路线图 | Roadmap
 
-本框架仅作为数字自卫与认知安全研究的构想架构。作者不赞同或支持任何形式的主动攻击行为。一切伦理与法律责任由操作者自行承担。
+- [x] **Phase 1**: 协议白皮书与逻辑框架设计 (Current)
+- [ ] **Phase 2**: 基于 LLM 的原型脚本发布
+- [ ] **Phase 3**: 基于 Three.js 的“信息战态势感知” UI 开发
+- [ ] **Phase 4**: 跨平台浏览器集成组件
 
-<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ 返回控制台</a></p>
 </details>
+
+---
 
 <!-- ============================================================
 KOREAN VERSION
 ============================================================ -->
 
-<div id="-piwf-kr"></div>
+<div id="piwf-kr"></div>
 <details>
 <summary><b>🇰🇷 [KR] 개인 정보전 프레임워크</b></summary>
 
+## 🌎 프로젝트 요약 | Abstract
 
+**개인 정보전 프레임워크 (PIWF)**는 디지털 시대의 **'개인 자위권'**을 재정의하기 위한 종합적인 전략 및 기술 프레임워크입니다. 알고리즘에 의해 가속화되는 현대 소셜 환경에서 개인의 인지 공간은 전례 없는 비대칭적 위협에 직면해 있습니다.
 
+PIWF는 단순한 소프트웨어 도구가 아닙니다. 이는 **정보 이론, 논리학, 심리 방어 및 AI 자동화**를 통합하여 '상황 인식'부터 '논리적 반격'에 이르는 전방위 방어 솔루션을 제공합니다. 기술을 통한 차원 높은 대응을 통해 집단 폭력의 규모 우위를 무력화하고 개인의 **디지털 주권**을 수호하는 것을 목표로 합니다.
 
-🌎 요약
+## 🛡️ 핵심 아키텍처 | Core Architecture
 
-**개인 정보전 프레임워크 (PIWF)**는 디지털 시대의 '개인 자위권'을 재정의하기 위한 종합적인 전략 및 이론적 구조입니다. 알고리즘에 의해 가속화되는 현대 소셜 환경에서 개인의 인지 공간은 집단적 사이버 공격으로부터 전례 없는 비대칭적 위협에 직면해 있습니다. PIWF는 전술적 중화를 통해 이러한 권력 격차를 해소하고 개인이 디지털 주권을 되찾을 수 있도록 돕는 것을 목표로 합니다.
+PIWF는 "비대칭적 중화"를 달성하기 위해 설계된 4단계 대응 매트릭스를 기반으로 구축되었습니다:
 
-💡 핵심 철학
+### 1. 의미론적 수용 계층 (Semantic Ingestion Layer)
+*   **핵심 개념**: 인지적 탈동조화 (Cognitive Decoupling).
+*   **기능**: AI를 통해 가공되지 않은 공격 흐름을 실시간으로 차단하고, 감정적 독성을 제거하여 '욕설'을 차갑고 구조화된 '논리 샘플'로 변환합니다.
 
-알고리즘 사냥의 시대, 개인의 인지 공간은 정보전의 주된 전장입니다. PIWF는 방어 패러다임을 **'수동적 인내'**에서 **'능동적 해체'**로 전환합니다. 디지털 괴롭힘은 견뎌내야 할 폭풍이 아니라, 중화될 수 있는 구조화된 신호일 뿐입니다.
+### 2. 전략적 클러스터링 계층 (Strategic Clustering Layer)
+*   **핵심 개념**: 정보의 붕괴 (Information Collapse).
+*   **기능**: 벡터 알고리즘을 사용하여 수만 개의 댓글을 클러스터링합니다. 이를 통해 대규모 공격이 실제로는 3~5개의 논리적 오류가 무한히 반복되는 것에 불과하다는 사실을 사용자에게 인지시킵니다.
 
-🛡️ 전략적 지주
+### 3. 전술적 대응 계층 (Tactical Response Layer)
+*   **핵심 개념**: 논리적 타격 (Logos Strike).
+*   **기능**: **프롬프트 엔지니어링 (Prompt Engineering)**을 활용하여 상대방의 논리적 결함(예: 인신공격, 허수아비 때리기 등)을 자동으로 해체하는 고차원적인 논리 반격 문구를 생성합니다.
 
-인지적 탈동조화: 외부 공격에 의해 발생하는 감정적 피드백 루프를 차단합니다. 적대감을 개인적인 공격이 아닌 객관적인 데이터로 간주함으로써 심리적 면역을 달성합니다.
+### 4. 증거 보관소 (Evidence Vault)
+*   **핵심 개념**: 확정적 억제 (Deterministic Deterrence).
+*   **기능**: 타임스탬프, 메타데이터 해싱, 행위 프로파일링을 포함한 자동화된 OSINT(오픈 소스 인텔리전스) 추적 및 법적 증거 고착화를 수행합니다.
 
-서사적 붕괴: '인해전술'의 무력화. 수만 개의 목소리 속에 복제된 단일 논리적 핵심을 식별하여 집단적 합의라는 환상을 제거합니다.
+## 🚀 전술 시연 | Tactical Demo
 
-차원적 반격: 고차원적 논리를 사용하여 공격자 서사의 내부 모순을 폭로합니다. 이는 공격을 무효화할 뿐만 아니라 공적 영역에서 논리적 황당함을 드러내게 합니다.
+> **시나리오**: 수천 개의 반복적인 입구막기식 입장의 공격과 인신공격에 직면했을 때.
+>
+> **PIWF 작동**:
+> 1.  **클러스터링**: 시스템이 트래픽의 92%가 '거짓 딜레마(False Dilemma)' 오류임을 식별합니다.
+> 2.  **논리 타격**: 정밀한 해체 문구 생성: *"귀하의 주장은 여러 변수가 존재하는 상황에서 이분법적 선택을 강요하는 '거짓 딜레마' 오류에 해당합니다. 추가적인 논쟁에 앞서 기본 논리를 보완할 것을 권고합니다."*
+> 3.  **결과**: 갈등의 축을 '감정적 폭발'에서 '논리적 검증'으로 전환하여 공격자의 심리적 모멘텀을 즉각적으로 무력화합니다.
 
-주권 고착화: 정보 충돌에 대한 불변의 기록을 구축합니다. 이는 일시적인 디지털 갈등을 개인의 방어 의지에 대한 영구적인 증거로 전환합니다.
+## ⚠️ 면책 조항 | Disclaimer
 
-"승리는 논쟁에서 이기는 것이 아니라, 공격을 무의미하게 만드는 것입니다."
+본 프로젝트는 **학술 연구 및 논리 방어 시연** 목적으로만 제공됩니다. 저자는 어떠한 형태의 능동적인 사이버 괴롭힘을 조장하거나 이에 참여하지 않습니다. 본 프로토콜을 사용하여 생성된 상호작용에 대한 모든 법적 및 윤리적 책임은 사용자에게 있습니다.
 
-⚠️ 면책 조항
+## 📅 로드맵 | Roadmap
 
-이 프레임워크는 디지털 자위 및 인지 보안 연구를 위한 개념적 구조입니다. 저자는 어떠한 형태의 능동적인 공격 행위도 옹호하거나 조장하지 않습니다. 모든 법적 책임은 사용자에게 있습니다.
+- [x] **Phase 1**: 프로토콜 사양 및 전략 백서 설계 (Current)
+- [ ] **Phase 2**: Python 기반 LLM 논리 엔진 알파 버전 출시
+- [ ] **Phase 3**: 상황 인식을 위한 **Three.js** 기반 '작전 통제실' UI 개발
+- [ ] **Phase 4**: 크로스 플랫폼 브라우저 확장 프로그램 통합
 
-<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ 콘솔로 돌아가기</a></p>
 </details>
+
+---
 
 <!-- ============================================================
 JAPANESE VERSION
 ============================================================ -->
 
-<div id="-piwp-jp"></div>
+<div id="piwf-jp"></div>
 <details>
 <summary><b>🇯🇵 [JP] 個人情報戦フレームワーク</b></summary>
 
+## 🌎 プロジェクト概要 | Abstract
 
+**個人情報戦フレームワーク (PIWF)** は、デジタル時代における**「個人の自衛権」**を再定義するための総合的な戦略および技術フレームワークである。アルゴリズムによって加速する現代のソーシャル環境において、個人の認知空間は前例のない非対称的な脅威に直面している。
 
+PIWFは単なるコードツールではない。これは、**情報理論、論理学、心理的防御、そしてAIオートメーション**を融合させ、「状況認識」から「論理的反撃」に至る全方位的な防御ソリューションを提供するものである。技術による次元の超越を通じて、集団暴力の規模の優位性を無力化し、個人の**デジタル主権**を死守することを目的としている。
 
-🌎 概要
+## 🛡️ コアアーキテクチャ | Core Architecture
 
-個人情報戦フレームワーク (PIWF) は、デジタル時代における「個人自衛権」を再定義するための、総合的な戦略および理論的アーキテクチャである。アルゴリズムによって駆動される現代のソーシャル環境において、個人の認知空間は集団的なサイバー攻撃による前例のない非対称的な脅威に直面している。PIWFは戦術的な中和を通じてこの力の格差を埋め、個人が自らのデジタル主権を奪還することを目的としている。
+PIWFは、「非対称的な中和」を達成するために設計された4段階のレスポンスマトリックスに基づいている：
 
-💡 核心となる哲学
+### 1. 意味論的取込層 (Semantic Ingestion Layer)
+*   **コア概念**: 認知的脱結合 (Cognitive Decoupling)。
+*   **機能**: AIを用いて加工されていない攻撃フローをリアルタイムで遮断し、感情的な毒性を除去。「罵倒」を冷徹かつ構造化された「論理サンプル」へと変換する。
 
-アルゴリズムによる包囲網の時代、個人の認知空間は情報戦の主要な戦場である。PIWFは、防御のパラダイムを**「受動的な忍耐」から「能動的な解体」**へと転換する。デジタルハラスメントは耐え忍ぶべき嵐ではなく、中和可能な構造化された信号であると定義する。
+### 2. 戦略的クラスタリング層 (Strategic Clustering Layer)
+*   **コア概念**: 情報の収束 (Information Collapse)。
+*   **機能**: ベクトルアルゴリズムを用いて数万件のコメントをクラスタリングする。これにより、大規模な攻撃が実際には3〜5個の論理的誤謬の無限反復に過ぎないという事実をユーザーに認識させる。
 
-🛡️ 戦略的支柱
+### 3. 戦術的レスポンス層 (Tactical Response Layer)
+*   **コア概念**: 論理的打撃 (Logos Strike)。
+*   **機能**: **プロンプトエンジニアリング (Prompt Engineering)** を活用し、相手の論理的欠陥（例：人身攻撃、わら人形論法など）を自動的に解体する、高次元な論理反撃テキストを生成する。
 
-認知的脱結合: 外部の攻撃によって引き起こされる感情的なフィードバックループを遮断する。敵意を個人的な攻撃ではなく客観的なデータとして捉えることで、心理的な免疫を確立する。
+### 4. 証拠アーカイブ (Evidence Vault)
+*   **コア概念**: 確定的抑止 (Deterministic Deterrence)。
+*   **機能**: タイムスタンプ、メタデータのハッシュ化、行動プロファイリングを含む、自動化されたOSINT（オープンソースインテリジェンス）追跡および法的証拠の固定化を行う。
 
-叙事の崩壊: 「人海戦術」の無効化。数万の反復される声の背後に隠された単一の論理的核を特定し、集団的合意という幻想を霧散させる。
+## 🚀 戦術デモンストレーション | Tactical Demo
 
-次元的打撃: 高次の論理フレームワークを用いて攻撃者の叙事の内部矛盾を暴く。これにより、攻撃を無効化するだけでなく、公共の場において論理的な滑稽さを浮き彫りにさせる。
+> **シナリオ**: 数千件の執拗な「レッテル貼り」や論理性のない攻撃に直面した場合。
+>
+> **PIWFの動作**:
+> 1.  **クラスタリング**: システムがトラフィックの92%を「偽りのジレンマ (False Dilemma)」の誤謬であると識別。
+> 2.  **論理打撃**: 精密な解体テキストを生成：*"貴殿の主張は、複数の変数が存在する状況で二者択一を強いる「偽りのジレンマ」の誤謬に該当します。さらなる議論の前に、基礎的な論理構成を補完することを推奨します。"*
+> 3.  **結果**: 衝突の軸を「感情的な爆発」から「論理的な検証」へと転換し、攻撃者の心理的モメンタムを即座に無力化する。
 
-主権の固着: 情報紛争の改ざん不可能な記録を構築する。一過性のデジタル紛争を、個人の防御意志の永久的な証明へと変換し、決定論的な抑止力を形成する。
+## ⚠️ 免責事項 | Disclaimer
 
-「勝利とは論争に勝つことではなく、攻撃を無意味にすることである。」
+本プロジェクトは、**学術研究および論理防御のデモンストレーション**目的のみで提供されるものである。作者はいかなる形式の能動的なサイバーハラスメントも助長せず、またこれに関与しない。本プロトコルを使用して生成された相互作用に関するすべての法的・倫理的責任は、ユーザーに帰属する。
 
-⚠️ 免責事項
+## 📅 ロードマップ | Roadmap
 
-本フレームワークは、デジタル自衛および認知安全研究のための概念的な構造です。作者はいかなる形式の能動的な攻撃行為も容認または助長しません。すべての法的責任は利用者に帰属します。
+- [x] **Phase 1**: プロトコル仕様および戦略白書の設計 (Current)
+- [ ] **Phase 2**: PythonベースのLLM論理エンジンα版のリリース
+- [ ] **Phase 3**: 状況認識のための **Three.js** ベースの「作戦管制室」UI開発
+- [ ] **Phase 4**: クロスプラットフォーム対応ブラウザ拡張機能の統合
 
-<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ コンソールに戻る</a></p>
 </details>
 
 <div align="center">
+<br>
 <b>LOGOS IS THE ULTIMATE ARMOR</b>
 </div>
