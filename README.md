@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Conceptual_Whitepaper-orange.svg)]()
 [![Field](https://img.shields.io/badge/Field-Information_Warfare-red.svg)]()
 
-| [English](./README.md) | [简体中文](./docs/README_CN.md) | [한국어](./docs/README_KR.md) | [日本語](./docs/README_JP.md) |
+| [English](./README.md) | [简体中文](./README_CN.md) | [한국어](./README_KR.md) | [日本語](./README_JP.md) |
 | :---: | :---: | :---: | :---: |
 
 </div>
