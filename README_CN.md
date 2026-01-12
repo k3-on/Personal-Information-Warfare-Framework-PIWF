@@ -1,12 +1,12 @@
 <div align="center">
 
 # PIWP: Personal Information Warfare Protocol
-### 个人信息战协议
+### 个人信息战框架
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Status](https://img.shields.io/badge/Status-Conceptual_Whitepaper-orange.svg)]()
 
-| [English](./README.md) | [简体中文](./docs/README_CN.md) | [한국어](./docs/README_KR.md) | [日本語](./docs/README_JP.md) |
+| [English](./README.md) | [简体中文](./README_CN.md) | [한국어](./README_KR.md) | [日本語](./README_JP.md) |
 | :---: | :---: | :---: | :---: |
 
 </div>
